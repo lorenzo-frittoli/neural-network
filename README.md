@@ -1,3 +1,14 @@
+# Project.py
+
+## Main
+- Loads testing data using `load_data()`
+- Gets a net trained on the `mnist` database using `get_net_from_file()`
+- Prints a report using `net_report()`
+
+## Functions
+- `load_data()` loads training and testing data from a file
+- `get_net_from_file()` loads a net from a `.npz` savefile
+- `net_report()` generates a printable report of the net's performance
 
 # Neural Network from scratch in Python
 

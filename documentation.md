@@ -1,3 +1,19 @@
+---
+description: |
+    API documentation for modules: neuralnetwork.
+
+lang: en
+
+classoption: oneside
+geometry: margin=1in
+papersize: a4
+
+linkcolor: blue
+links-as-notes: true
+...
+
+
+
 # Module `neuralnetwork` {#id}
 
 
